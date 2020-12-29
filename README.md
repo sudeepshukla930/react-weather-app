@@ -1,3 +1,25 @@
+# Weather App
+
+it is a simple weather web app made with Reactjs and weather api.
+
+
+ ### **Project is Live at: "https://peaceful-bartik-1d9d07.netlify.app/"**
+
+# Screenshot
+<img src="./README-Assests/desktop.png">
+
+<img src="./README-Assests/mobile.png">
+
+# Features
+
+* It tells the real time temperature of city.
+* It display City with respective Country.
+* Also Display present date , month and year.
+
+
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +90,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+***
+   ***
+   ***
+
+   **<h2 align="center"> Contributed by <a href="https://github.com/sudeepshukla930">Sudeep Shukla</a> With 💜. </h2>**
+
+<br/>
+
+  # Reach me on
+<p align='center'>
+  <a href="https://www.linkedin.com/in/sudeep-shukla-657384193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sudeepshukla930@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  
+</p>
+
+****
+****
